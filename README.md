@@ -1,3 +1,9 @@
+## It's a fork!
+
+Yes, it's true. This is a fork of Plex's plex-media-player. As time has marched on, Plex has put their efforts into maintaining their new desktop product which, as of now, isn't being released for Linux. Qt's platform has evolved and, as of 5.14.1 video playback no longer works, so this fork is currently just a way to keep compatibility with modern versions of plex-media-player's dependencies.
+
+This repository will continue to incorporate updates from the upstream repository until that stops making sense.
+
 ## Building
 
 You need:
